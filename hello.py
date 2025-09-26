@@ -19,4 +19,4 @@ print("\nFinal collected response:\n", full_response)
 with open("llm_output.txt", "w", encoding="utf-8") as f:
     f.write(full_response)
 
-print("\n✅ Response saved to llm_output.txt")
+print("\n Response saved to llm_output.txt")
